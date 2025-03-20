@@ -35,7 +35,4 @@ A Django-based web application designed to streamline student data management fo
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaPandey&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaPandey&layout=compact&theme=radical)
-
 Let's build something amazing together! 🚀
